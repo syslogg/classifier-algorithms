@@ -2,6 +2,12 @@
 
 Trabalho de Inteligencia Artificial proposto pelo Prof. Aragão Jr.
 
+Para execução da implementação deve-se ter instalado o Python 3.* com as bibliotecas,
+- pandas
+- matplot
+- numpy
+
+
 Instruções para executar o projeto.
 
 1. Deve-se instalar o Anaconda (já contem o jupyter notebook e as bibliotecas)
