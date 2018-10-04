@@ -1,4 +1,8 @@
-# Naive Bayes
+# Algoritmos classificadores
+
+- Naive Bayes
+- K-NN
+- Centroide
 
 Trabalho de Inteligencia Artificial proposto pelo Prof. Aragão Jr.
 
