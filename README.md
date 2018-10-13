@@ -1,15 +1,17 @@
-# Algoritmos classificadores
+# Algoritmos de Aprendizagens
+
+Implementação sem utilizar bibliotecas dos algoritmos abaixo
 
 - Naive Bayes
 - K-NN
 - Centroide
-
-Trabalho de Inteligencia Artificial proposto pelo Prof. Aragão Jr.
+- K-Means
 
 Para execução da implementação deve-se ter instalado o Python 3.* com as bibliotecas,
 - pandas
 - matplot
 - numpy
+- seaborn
 
 
 Instruções para executar o projeto.
